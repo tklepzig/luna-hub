@@ -1,0 +1,9 @@
+{
+  "name": "Luna",
+  "short_name": "Luna",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#07131d",
+  "background_color": "#07131d"
+}
